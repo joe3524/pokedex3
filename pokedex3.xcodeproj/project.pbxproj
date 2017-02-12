@@ -12,6 +12,7 @@
 		D8080DBB1E504E87003FA726 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D8080DB91E504E87003FA726 /* Main.storyboard */; };
 		D8080DBD1E504E87003FA726 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D8080DBC1E504E87003FA726 /* Assets.xcassets */; };
 		D8080DC01E504E87003FA726 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D8080DBE1E504E87003FA726 /* LaunchScreen.storyboard */; };
+		D8080DC81E506704003FA726 /* pokemon.csv in Resources */ = {isa = PBXBuildFile; fileRef = D8080DC71E506704003FA726 /* pokemon.csv */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		D8080DBC1E504E87003FA726 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D8080DBF1E504E87003FA726 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D8080DC11E504E87003FA726 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D8080DC71E506704003FA726 /* pokemon.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = pokemon.csv; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				D8080DB71E504E87003FA726 /* ViewController.swift */,
 				D8080DB91E504E87003FA726 /* Main.storyboard */,
 				D8080DBC1E504E87003FA726 /* Assets.xcassets */,
+				D8080DC71E506704003FA726 /* pokemon.csv */,
 				D8080DBE1E504E87003FA726 /* LaunchScreen.storyboard */,
 				D8080DC11E504E87003FA726 /* Info.plist */,
 			);
@@ -126,6 +129,7 @@
 			files = (
 				D8080DC01E504E87003FA726 /* LaunchScreen.storyboard in Resources */,
 				D8080DBD1E504E87003FA726 /* Assets.xcassets in Resources */,
+				D8080DC81E506704003FA726 /* pokemon.csv in Resources */,
 				D8080DBB1E504E87003FA726 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -302,6 +306,7 @@
 				D8080DC61E504E87003FA726 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
